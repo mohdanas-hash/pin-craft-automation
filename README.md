@@ -49,3 +49,6 @@ python lock_cracker.py
 
 ⚠️ Educational Disclaimer
 This tool is strictly built for educational purposes, local UI testing, and automated layout verification within controlled developer environments. Do not use automation scripts against unauthorized or personal production security barriers.
+
+⚖️ Terms of Unauthorized Use & Legal Notice:
+This software is strictly provided for educational, research, and authorized testing purposes. Any unauthorized, malicious, or non-consensual deployment of this script against devices or systems without explicit, prior permission from the owner is strictly prohibited. The author (Mohd Anas) assumes no liability and is not responsible for any misuse, damage, or legal consequences resulting from the violation of local, national, or international laws. Unauthorized access to computer systems or mobile devices is a punishable offense under applicable cyber laws, and violators will be subject to strict legal action.
