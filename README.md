@@ -30,3 +30,22 @@ To map the exact touch targets on your dummy lock interface:
        '2': (540, 750),
        # Add your mapped coordinates for remaining digits here
    }
+
+▶️ Step 4: Run the Automation
+
+Connect your Android device via USB and ensure USB Debugging is authorized.
+
+Verify the connection in your terminal:
+Bash
+
+adb devices
+
+Execute your script to stream the touch injection sequence:
+
+Bash
+
+python lock_cracker.py
+
+
+⚠️ Educational Disclaimer
+This tool is strictly built for educational purposes, local UI testing, and automated layout verification within controlled developer environments. Do not use automation scripts against unauthorized or personal production security barriers.
